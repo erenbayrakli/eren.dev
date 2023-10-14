@@ -2,9 +2,9 @@ const Home = () => {
     return <div className="content-wrapper">
     <div className="content">
       <div title="Home" className="lg:hidden" />
-      <p3>
+      <p>
         {`Hi everyone👋 I'm Eren, a software engineer based in Istanbul.`}
-      </p3>
+      </p>
       <p>
       <br />
       I'm Eren Bayrakli, a software developer with three years of experience.<br />

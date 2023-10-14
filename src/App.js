@@ -11,10 +11,9 @@ function App() {
             <Routes>
                 <Route path='/' element={<AppLayout />}>
                     <Route index element={<Home />} />
-                    <Route path='/started' element={<Blank />} />
-                    <Route path='/calendar' element={<Blank />} />
-                    <Route path='/user' element={<Blank />} />
-                    <Route path='/order' element={<Blank />} />
+                    <Route path='/stack' element={<Blank />} />
+                    <Route path='/bookmarks' element={<Blank />} />
+                    <Route path='/photos' element={<Blank />} /> 
                 </Route>
             </Routes>
         </BrowserRouter>

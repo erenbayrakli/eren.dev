@@ -12,20 +12,20 @@ const sidebarNavItems = [
     {
         display: 'Stack',
         icon: <i className='bx bx-star'></i>,
-        to: '/started',
-        section: 'started'
+        to: '/stack',
+        section: 'stack'
     },
     {
         display: 'Bookmarks',
         icon: <i className='bx bx-bookmark'></i>,
-        to: '/calendar',
-        section: 'calendar'
+        to: '/bookmarks',
+        section: 'bookmarks'
     },
     {
         display: 'Photos',
         icon: <i className='bx bx-camera'></i>,
-        to: '/user',
-        section: 'user'
+        to: '/photos',
+        section: 'photos'
     }, 
 ]
 
