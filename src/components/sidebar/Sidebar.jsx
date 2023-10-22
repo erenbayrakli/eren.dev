@@ -53,7 +53,9 @@ const Sidebar = () => {
 
     return <div className='sidebar'>
         <div className="sidebar__logo">
-            Eren Bayraklı 
+            Eren Bayraklı  
+            <br/>
+            Software Engineer
         </div>
         <div ref={sidebarRef} className="sidebar__menu">
             <div
